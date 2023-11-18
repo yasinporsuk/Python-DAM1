@@ -5,5 +5,5 @@ if numero < 0:
 elif numero == 0:
     print(numero, "es cero")
 else:
-    print(numero, "es positivo")
+    print(numero, "es  muy positivo")
 
