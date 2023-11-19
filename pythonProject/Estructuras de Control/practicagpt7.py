@@ -8,7 +8,7 @@ def juego():
         intento = int(input("Ingresa un numero para adivinar! o ingresa -1 para rendirte"))
 
         if intento == -1:
-            print("te has rendido el numero secreto era: ", numero_secreto)
+            print("te 3has rendido el numero secreto era: ", numero_secreto)
             break
         if intento == numero_secreto:
             print("Has acertado!")
