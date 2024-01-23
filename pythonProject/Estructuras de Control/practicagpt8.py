@@ -1,7 +1,8 @@
 def verificar_pin():
 
     intentos = 3
-    pin_correcto = 8940
+    pin_correcto = 9140
+
 
     while intentos > 0:
 
