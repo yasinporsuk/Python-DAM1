@@ -1,0 +1,1 @@
+print(cadena[-1])
